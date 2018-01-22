@@ -1,5 +1,5 @@
 # ChucKHarmonyGeneration
-Harmony Generation algorithm in the live audio programming language ChucK
+Harmony Generation algorithm in the live audio programming language ChucK: 
 http://chuck.cs.princeton.edu/
 
 Program often crashes when the thread is initially added to the session.
